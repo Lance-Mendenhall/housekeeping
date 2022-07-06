@@ -1,0 +1,4 @@
+sweep kitchen, living room	5	1
+kitchen	20	3
+living room	20	7
+master bedroom	17	0
